@@ -8,7 +8,7 @@ or that there was an alternative that fit better into the curriculum.
 
 Courses | Duration | Effort
 :-- | :--: | :--:
-[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)| 10 weeks | 15 hours/week
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-2#!)([alt](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/))| 10 weeks | 15 hours/week
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week
 [Introduction to Computer Science (Udacity)](https://www.udacity.com/course/intro-to-computer-science--cs101)| 7 weeks | 10-20 hours/week
 [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)| 5 weeks | -
@@ -35,6 +35,7 @@ Courses | Duration | Effort
 [Advanced Precalculus](https://www.futurelearn.com/courses/advanced-precalculus) | 4 weeks | 5 hours/week
 [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)| - | -
 [Linear Algebra (Strang)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) | - | -
+[Introduction to Computational Thinking](https://computationalthinking.mit.edu/Spring21/#introduction_to_computational_thinking) | - | -
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)
 
@@ -78,7 +79,6 @@ Courses | Duration | Effort
 [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)| 16 weeks | 6-10 hours/week
 [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)| 10 weeks | 6-10 hours/week
 [Machine Learning for Data Science and Analytics](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-0)| 5 weeks | 7-10 hours/week
-[Processing Big Data with Azure HDInsight](https://www.edx.org/course/processing-big-data-azure-hdinsight-microsoft-dat202-1x-0)| 5 weeks | 3-4 hours/week
 [Big Data Science with the BD2K-LINCS Data Coordination and Integration Center](https://www.coursera.org/course/bd2klincs)| 7 weeks | 4-5 hours/week
 
 ## Tools
